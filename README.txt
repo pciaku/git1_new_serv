@@ -1,1 +1,3 @@
-some notes to read
+some notes to read:
+read this first before leaving
+
