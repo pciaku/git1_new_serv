@@ -1,3 +1,2 @@
 some notes to read:
-read this first before leaving
-
+Ok some other notes
