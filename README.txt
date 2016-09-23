@@ -1,1 +1,2 @@
-some notes to read
+some notes to read.
+Ok some other notes
